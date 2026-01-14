@@ -1,0 +1,7 @@
+{
+  "name": "Admire Language Learning",
+  "description": "A premium language learning platform featuring 'SpeakZone', an audio-only real-time AI conversation partner named Aiva.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
